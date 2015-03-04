@@ -3,7 +3,7 @@ March 4, 2015
 
 ## Modifiers: Limiting Words:
 
-1. Lasers only destroy the target, leaving the surrounding healthy tissue intact.
+1. Lasers destroy only the target, leaving the surrounding healthy tissue intact.
 2. The turtle only makes progress when it sticks its neck out.
 
 ## Modifiers: Phrases and Clauses:
