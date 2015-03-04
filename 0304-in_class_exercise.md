@@ -8,7 +8,7 @@ March 4, 2015
 
 ## Modifiers: Phrases and Clauses:
 
-3. The soccer player returned to the clinic where he had undergone emergency surgery in 2004 in a limousine sent by Adidas.
+3. The soccer player returned in a limousine sent by Adidas to the clinic where he had undergone emergency surgery in 2004.
 4. There are many pictures of comedians who have performed at Gavin's on the walls.
 5. The robber was described as a six-foot-tall man with a mustache weighing 150 pounds.
 6. The exchange students we met for coffee occasionally questioned us about our latest slang.
